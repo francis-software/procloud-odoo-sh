@@ -1,0 +1,15 @@
+{
+    'name': 'My Module',
+    'version': '1.0',
+    'summary': 'A Simple Odoo Module',
+    'sequence': -100,
+    'description': """My Simple Odoo Module""",
+    'category': 'Tools',
+    'website': 'https://www.example.com',
+    'depends': ['base'],
+    'data': [],
+    'demo': [],
+    'installable': True,
+    'application': True,
+    'auto_install': False,
+}
